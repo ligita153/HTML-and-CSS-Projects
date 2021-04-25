@@ -1,0 +1,19 @@
+table {
+	border: 2px solid dimgray;
+}
+td:hover {
+	background-color: white;
+	color: gold;
+}
+tr, th {
+	background-color: darkgray;
+	color: darkmagenta;
+	font-style: bold;
+}
+tr, td {
+	background-color: gainsboro;
+	color: magenta;
+}
+
+	
+	
