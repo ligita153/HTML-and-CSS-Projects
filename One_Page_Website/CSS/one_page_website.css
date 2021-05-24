@@ -1,10 +1,11 @@
 html {
     font-family: sans-serif;
     font-size: 16px;
+    background-color: #a8bfc4;
 }
-form {
-    width: 15%;
-    border: 1px solid #b68c8c;
+form input {
+    width: 10%;
+    border: 1px solid #495d64;
     margin: 10px 1em;
     border-radius: 7px;
 }
